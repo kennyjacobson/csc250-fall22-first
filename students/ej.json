@@ -1,6 +1,12 @@
 {
+<<<<<<< HEAD
  "name" : "eden Jacobson",
 "major" : "Spanish",
 "class_year" : 1993
 
+=======
+    "name" : "Eden Jacobson",
+    "major" : "Engineering",
+    "class_year" : 2032
+>>>>>>> 11bcdbd6338428dcd37514d1bd3a4e8bbac2b729
 }
